@@ -15,3 +15,7 @@ Simply refresh your Discord client and all changes should be made. Feel free to 
  
 Video instructions(also provided by Globi) can be found here in case you struggle with any of these steps:
 https://streamable.com/4rdy6
+
+STEP 4:
+
+I've included an `extras.css` file that contains a few extra CSS tweaks regarding emoji and blocked users, but are separate from DarkMode+. Feel free to add the code from there to your `custom.css` file if interested in applying it.
