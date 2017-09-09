@@ -1,0 +1,19 @@
+
+/*
+Emoji Changes: Removes separation between emoji and prevents
+resizing of emoji when used in a message with text.
+*/
+.emoji{
+  margin: 0 .0em 0 .0em!important;
+  min-height: 32px;
+  min-width: 32px;
+}
+
+/*
+Removes a blocked user's message entirely from sight. Note
+this feature has experienced bugs with timestamps and the
+"New Message" notifier.
+*/
+.message-group-blocked {
+  display: none
+}
