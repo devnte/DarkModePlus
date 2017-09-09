@@ -3,7 +3,7 @@ A more complete version of Discord's Dark mode via CSS injection
 
 STEP 1:
  
-To begin, you need to ensure that you can inject CSS code into your current version of Discord. To do this you must locate the file titled `index.js` located at <User Directory>\AppData\Roaming\discord\0.0.298(or whatever the current version is)\modules\discord_rpc\ Open the index.js file with some kind of text editor such as Notepad++ or Sublime (Not the regular notepad application). At the bottom of the code you will copy and paste the text found in the inject.js file (provided by Globi)
+To begin, you need to ensure that you can inject CSS code into your current version of Discord. To do this you must locate the file titled `index.js`. To do this, from windows, press your windows key and enter in %appdata%. From there you can locate the file by navigating to Roaming\discord\0.0.298(or whatever the current version is)\modules\discord_rpc\ Open the index.js file with some kind of text editor such as Notepad++ or Sublime (Not the regular notepad application). At the bottom of the code you will copy and paste the text found in the inject.js file (provided by Globi)
 
 STEP 2:
 
