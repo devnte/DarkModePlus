@@ -1,0 +1,180 @@
+.headerNormal-1cioxU {
+  background: #1e2124;
+}
+.avatarNormal-3luwna{
+  border-color: #1e2124;
+}
+.body-3rkFrF {
+  background-color: #27292c;
+  border-bottom: 1px solid #000;
+}
+.quick-message {
+  border: 1px solid #000000;
+  background: #27292c;
+}
+
+.member-roles .member-role {
+  background-color: #1e2124;
+  border: 1px solid #000000;
+}
+.footer-2J5zqP {
+  background-color: #1e2124;
+}
+#user-profile-modal .header:after {
+  background-color: #27292F;
+  background-image: none;
+}
+#user-profile-modal .tab-bar-container{
+  background-color: #27292F;
+  border-bottom: 1px solid #1e2124
+}
+#user-profile-modal .avatar-wrapper{
+  background-color: #27292F;
+}
+#user-profile-modal .guilds .section .connected-accounts .connected-account {
+  border: 1px solid #141514;
+}
+
+#user-profile-modal .guilds .section .connected-accounts .connected-account .connected-account-name-inner .connected-account-name{
+  color: #87909c;
+}
+
+#user-profile-modal .header .header-info .header-info-inner .discord-tag{
+  color: #cccccc;
+}
+#user-profile-modal .header .header-info .header-info-inner .discord-tag .discriminator{
+    color: #87909c;
+}
+
+.scroller-wrap .scroller::-webkit-scrollbar-track-piece {
+  background-color: #141514
+  ;
+}
+
+.scroller-wrap .scroller::-webkit-scrollbar-thumb, .scroller-wrap .scroller::-webkit-scrollbar-track-piece{
+  border: 3px solid #27292F;
+}
+
+#user-profile-modal .scroller {
+  background: #27292F;
+}
+
+.note textarea:focus{
+  background: #27292f;
+}
+#user-profile-modal .empty{
+  background: #27292f;
+}
+#user-profile-modal .guilds .guild:hover {
+  background: linear-gradient(90deg,#141514 90%,#141514 );
+}
+
+#user-profile-modal .guilds .section+.section{
+  border-top: 1px solid #141514;
+}
+
+.status-picker .popout-menu-item{
+  background: #1e2124;
+}
+.popout-menu .popout-menu-item:hover{
+  background-color: #27292c;
+}
+.popout-menu .popout-menu-item{
+  background: #1e2124;
+}
+.popout-menu .popout-menu-separator{
+  border-bottom: 1px solid #27292c;
+}
+#user-profile-modal .guilds .section .connected-accounts .connected-account .connected-account-name-inner .connected-account-name{
+  color: #cccccc;
+}
+.avatar-profile .status{
+  border: 4px solid #27292c;
+}
+
+.avatar-small .status{
+  border: 2px solid #27292c;
+}
+
+.avatar-large .status{
+  border: 2px solid #27292c;
+}
+
+#user-profile-modal .tab-bar .tab-bar-item{
+  color: #cccccc;
+}
+
+#user-profile-modal .guilds .guild .status{
+  border: 2px solid #27292c;
+}
+#user-profile-modal .guilds .guild:hover .status{
+  border: 2px solid #27292c;
+}
+#user-profile-modal .guilds .guild .guild-name{
+  color: #cccccc;
+}
+
+.quick-message{
+  color: #cccccc;
+}
+.emoji-picker .header .search-bar{
+  background: #27292c;
+}
+.emoji-picker.header{
+  background: #27292c;
+}
+.emoji-picker{
+  background: #27292c;
+}
+.emoji-picker .category{
+  background: #27292c;
+}
+.search-bar.search-bar-light input{
+  color: #27292c;
+  background: white;
+}
+.search-bar.search-bar-light .search-bar-inner{
+  background: white;
+}
+.search-popout {
+    background-color: #27292c;
+    border-radius: 0px;
+}
+.search-popout .search-query.selected {
+    background-color: #27292c;
+}
+
+.search-popout .option:after {
+    background: none!important;
+}
+.search-popout .results-group:before {
+    border-top: 1px solid #27292c;
+}
+.search-popout .option.selected {
+    background-color: #141514;
+    color: #cccccc;
+}
+
+.popout header{
+  background: #1e2124;
+}
+#autocomplete-popout .autocomplete-scroller{
+  background: #27292c;
+}
+#autocomplete-popout .row.selected, #autocomplete-popout .row:hover{
+  background: #1e2124;
+}
+.scrollerThemed-19vinI.themeLight-1WK0Av.scrollerTrack-3hhmU0>.scroller-fzNley::-webkit-scrollbar-track, .theme-dark .scrollerThemed-19vinI.themeLight-1WK0Av.scrollerTrack-3hhmU0>.scroller-fzNley::-webkit-scrollbar-track, .theme-light .scrollerWrap-2uBjct.scrollerTrack-3hhmU0>.scroller-fzNley::-webkit-scrollbar-track{
+  background: #1e2124;
+}
+.context-menu .item{
+  background: rgba(32,34,37);
+
+}
+.context-menu{
+  background: #2f3136;
+}
+
+.context-menu .item:hover{
+  background: #1e2124;
+}
